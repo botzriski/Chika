@@ -1,7 +1,7 @@
 /*
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Contact Me on wa.me/6289531724196
+   *
 */
 
 const fs = require('fs')
@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
+global.owner = ['6289531724196','6289531724196','6289531724196']
+global.premium = ['6289531724196']
+global.ownernomer = '6289531724196'
+global.ownername = 'RiskyDwayne'
 global.botname = 'Chika-Md'
 global.footer = 'RiychDwayne'
 global.ig = 'https://instagram.com/riychdwayne'
